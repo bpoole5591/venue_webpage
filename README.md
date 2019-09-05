@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## To Run
+## To View Demo
 
 From inside the project directory, install dev dependencies by running:
 
