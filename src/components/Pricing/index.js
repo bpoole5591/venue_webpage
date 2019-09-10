@@ -7,11 +7,11 @@ import Zoom from 'react-reveal/Zoom';
 class Pricing extends Component {
   state = {
     prices: [50, 100, 250],
-    tiers: ['Gen Admission', 'Balcony', 'VIP'],
+    tiers: ['Floor', 'Balcony', 'VIP'],
     desc: [
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
+      'Floor tickets are general admission, standing-room only. ',
+      'Enjoy the show from the luxury of an assigned seat.',
+      'Includes meet and greet, early admission, and one General Admission ticket.'
     ],
     linkto: ['tickets.com/a', 'tickets.com/b', 'tickets.com/c'],
     delay: [500, 0, 500]

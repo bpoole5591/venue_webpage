@@ -33,8 +33,7 @@ class Discount extends Component {
             <div className="discount_description">
               <h3>tickets purchased before June 30th!</h3>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                This is a limited time only offer. Act now to take advantage of the savings!
               </p>
               <MyButton
                 text="Purchase Tickets"

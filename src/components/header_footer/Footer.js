@@ -9,6 +9,9 @@ const Footer = () => {
         <div className="footer_copyright">
           Copyright &copy; 2019 House of Blues. All Rights Reserved.
         </div>
+        <div className="footer-disclaimer">
+        Disclaimer: This website does not have any affiliation with House of Blues or Blue October. No tickets are available for purchase from this webpage. This page intended for demonstration purposes only.
+        </div>
       </Fade>
     </footer>
   );
